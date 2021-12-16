@@ -1,4 +1,4 @@
-const Sauce = require('../models/sauce')
+const Sauce = require('../models/Sauce')
 const fs = require('fs')
 
 // Récuperer la liste de toutes les sauces
